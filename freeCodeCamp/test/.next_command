@@ -431,3 +431,4 @@ cd images
 ls --color=auto
 cd ..
 rm images/background.jpg
+rmdir images
