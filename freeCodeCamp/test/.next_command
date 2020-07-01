@@ -463,3 +463,6 @@ ls --color=auto
 mkdir fonts
 touch fonts/blabla.otf
 rm -r fonts
+ls --color=auto
+find
+ls --color=auto
