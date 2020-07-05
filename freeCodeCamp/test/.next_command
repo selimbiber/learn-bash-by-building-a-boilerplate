@@ -420,3 +420,5 @@ touch footer.jpeg
 mv footer.jpeg client/assets/images
 cd client/assets/images/footer.jpeg
 mv images/footer.jpeg client/assets/images
+ls --color=auto
+find
