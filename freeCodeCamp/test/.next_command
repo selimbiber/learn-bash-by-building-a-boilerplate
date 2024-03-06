@@ -135,3 +135,5 @@ ls --color=auto
 cd project
 ls --color=auto
 cd freeCodeCamp
+test
+ls --color=auto
