@@ -137,3 +137,4 @@ ls --color=auto
 cd freeCodeCamp
 test
 ls --color=auto
+more package.json
