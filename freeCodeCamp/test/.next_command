@@ -163,3 +163,4 @@ pwd
 ls --color=auto
 cd LICENSE-MIT
 more LICENSE-MIT
+clear
