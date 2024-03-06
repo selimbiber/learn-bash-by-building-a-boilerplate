@@ -156,3 +156,10 @@ clear
 ls --color=auto -l
 more README.md
 ls --color=auto -l
+more licence
+more LICENT-MIT
+ls --color=auto - l
+pwd
+ls --color=auto
+cd LICENSE-MIT
+more LICENSE-MIT
