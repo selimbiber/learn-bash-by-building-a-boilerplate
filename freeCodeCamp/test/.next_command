@@ -146,3 +146,9 @@ ls --color=auto
 __vsc_prompt_cmd_original
 ls --color=auto l
 ls --color=auto -l
+clear
+pwd
+ls --color=auto -l
+has yargs
+has
+cd has
