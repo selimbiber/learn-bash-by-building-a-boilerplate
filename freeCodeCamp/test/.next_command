@@ -164,3 +164,4 @@ ls --color=auto
 cd LICENSE-MIT
 more LICENSE-MIT
 clear
+ls --color=auto
