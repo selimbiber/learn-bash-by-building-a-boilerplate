@@ -140,3 +140,5 @@ ls --color=auto
 more package.json
 clear
 ls --color=auto
+cd package.json
+cd node_modules
