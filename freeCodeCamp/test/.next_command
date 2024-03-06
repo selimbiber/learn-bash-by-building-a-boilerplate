@@ -152,3 +152,5 @@ ls --color=auto -l
 has yargs
 has
 cd has
+clear
+ls --color=auto -l
