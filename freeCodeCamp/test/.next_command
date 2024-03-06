@@ -155,3 +155,4 @@ cd has
 clear
 ls --color=auto -l
 more README.md
+ls --color=auto -l
