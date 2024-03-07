@@ -213,3 +213,8 @@ ls --color=auto
 ls --color=auto --help
 ls --color=auto --a
 ls --color=auto -a
+cd ..
+pwd
+ls --color=auto
+cd website
+cd .
