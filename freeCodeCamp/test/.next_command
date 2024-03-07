@@ -231,3 +231,6 @@ ls --color=auto
 touch CodeA11y.svg
 ls --color=auto
 touch CodeAlly.svg
+__vsc_prompt_cmd_original
+ls --color=auto
+touch CodeRoad.svg
