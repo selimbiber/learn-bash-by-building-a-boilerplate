@@ -218,3 +218,4 @@ pwd
 ls --color=auto
 cd website
 cd .
+touch background.jpg
