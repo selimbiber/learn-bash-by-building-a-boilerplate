@@ -401,3 +401,4 @@ mv header.png ..
 ls --color=auto
 d ..
 cd ..
+ls --color=auto
