@@ -466,3 +466,4 @@ rm -r fonts
 ls --color=auto
 find
 ls --color=auto
+touch package.json
