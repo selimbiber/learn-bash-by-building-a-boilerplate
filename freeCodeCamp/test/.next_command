@@ -411,3 +411,6 @@ find -name src
 cd ../../..
 find -name src
 find -name images
+ls --color=auto
+touch header.png
+mv header.png client/assets/images
