@@ -396,3 +396,5 @@ cd images
 mkdir images
 cd images
 ls --color=auto
+touch header.png
+mv header.png ..
