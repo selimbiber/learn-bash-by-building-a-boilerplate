@@ -416,3 +416,7 @@ touch header.png
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+touch footer.jpeg
+mv footer.jpeg client/assets/images
+cd client/assets/images/footer.jpeg
+mv images/footer.jpeg client/assets/images
