@@ -343,3 +343,8 @@ cd assets
 ls --color=auto
 mkdir images
 cd images
+ls --color=auto
+mkdir background.jpg
+rm background.jpg
+mkdir background.jpg
+touch background.jpg
