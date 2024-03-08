@@ -334,3 +334,11 @@ cd cleint
 cd client
 mkdir assets
 cd assets
+ls --color=auto
+cd ..
+ls --color=auto
+mv images assets
+ls --color=auto
+cd assets
+ls --color=auto
+mkdir images
