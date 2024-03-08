@@ -395,3 +395,4 @@ cd ../../..
 cd images
 mkdir images
 cd images
+ls --color=auto
