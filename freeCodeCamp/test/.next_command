@@ -459,3 +459,7 @@ touch client/assets/fonts/lato-light.ttf
 find
 rm -help
 rm --help
+ls --color=auto
+mkdir fonts
+touch fonts/blabla.otf
+rm -r fonts
