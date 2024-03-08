@@ -473,3 +473,5 @@ ls --color=auto
 echo Yay!
 find
 echo I finished the boilerplate!
+echo one more thing..
+echo one more thing...
