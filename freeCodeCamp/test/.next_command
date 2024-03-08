@@ -385,3 +385,13 @@ find
 cd client/assets/images
 cd../../..
 cd ../../..
+ls --color=auto
+cd client
+ls --color=auto
+cd ..
+find
+cd client/assets/images
+cd ../../..
+cd images
+mkdir images
+cd images
