@@ -348,3 +348,40 @@ mkdir background.jpg
 rm background.jpg
 mkdir background.jpg
 touch background.jpg
+cd ...
+cd ../..
+cd ..
+ls --color=auto
+cd client
+cd ..
+cd ..
+cd website
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+mv footer.jpeg cd..
+ls --color=auto
+cd cd..
+ls --color=auto
+find
+rm cd..
+ls --color=auto
+rm header.png
+ls --color=auto
+cd ..
+cd ../..
+touch footer.jpeg
+touch header.png
+ls --color=auto
+mv footer.jpeg client/src/assets/images
+find
+mv footer.jpeg client/assets/images
+mv header.png client/assets/images
+find
+cd client/assets/images
+cd../../..
+cd ../../..
