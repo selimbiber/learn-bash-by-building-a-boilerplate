@@ -437,3 +437,6 @@ find
 mkdir icons client/assets
 mkdir icons ./client/assets
 mkdir client/assets/icons
+ls --color=auto
+touch CodeAlly.svg
+mv CodeAlly.svg client/assets/icons
