@@ -322,3 +322,13 @@ find -name src
 find website
 ls --color=auto
 find
+mv images client
+find
+mv fonts client
+ls --color=auto
+mv CodeAlly.svg client
+mv CodeRoad.svg client
+mv freeCodeCamp.svg client
+ls --color=auto
+cd cleint
+cd client
