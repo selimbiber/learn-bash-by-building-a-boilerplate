@@ -424,3 +424,10 @@ ls --color=auto
 find
 ls --color=auto
 rmdir images
+ls --color=auto
+mkdir images
+touch images/background.jpg
+cd images
+ls --color=auto
+cd ..
+rm images/background.jpg
