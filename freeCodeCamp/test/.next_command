@@ -402,3 +402,12 @@ ls --color=auto
 d ..
 cd ..
 ls --color=auto
+find
+mv header.png client/assets/images
+ls --color=auto
+cd client/assets/images
+find -name images
+find -name src
+cd ../../..
+find -name src
+find -name images
