@@ -441,3 +441,8 @@ ls --color=auto
 touch CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
 find
+find
+find
+ls --color=auto
+touch CodeRoad.svg
+mv CodeRoad.svg client/assets/icons
