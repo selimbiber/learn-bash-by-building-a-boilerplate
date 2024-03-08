@@ -332,3 +332,4 @@ mv freeCodeCamp.svg client
 ls --color=auto
 cd cleint
 cd client
+mkdir assets
